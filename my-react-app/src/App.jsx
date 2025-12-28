@@ -1,10 +1,13 @@
 import React from 'react'
-import MySecondComponent from './Components/MySecondComponent'
+import ComponentA from './Components/ComponentA'
+import ComponentB from './Components/ComponentB'
+import ComponentC from './Components/ComponentC'
 
 const App = () => {
   return (
     <div>
-      <MySecondComponent/>
+      <ComponentA/>
+      
     </div>
   )
 }
