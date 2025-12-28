@@ -1,10 +1,10 @@
 import React from 'react'
-import ColorPicker from './Components/ColorPicker.jsx'
+import MySecondComponent from './Components/MySecondComponent'
 
 const App = () => {
   return (
     <div>
-      <ColorPicker/>
+      <MySecondComponent/>
     </div>
   )
 }
